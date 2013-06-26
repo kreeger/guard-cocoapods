@@ -10,7 +10,7 @@ Command line version!
 
     $ gem install guard-bundler
 
-Gemfile version! (inside development group):
+Gemfile version!
 
     gem 'guard'
     gem 'guard-cocoapods'
