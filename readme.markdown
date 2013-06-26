@@ -6,11 +6,11 @@ A shameless ripoff of [Guard::Bundler](https://github.com/guard/guard-bundler), 
 
 Make sure you've got [Guard](https://github.com/guard/guard) installed beforehand. Then do one of these.
 
-1. Command line version!
+Command line version!
 
     $ gem install guard-bundler
 
-2. Gemfile version! (inside development group):
+Gemfile version! (inside development group):
 
     gem 'guard'
     gem 'guard-cocoapods'
