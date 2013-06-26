@@ -1,0 +1,3 @@
+guard 'cocoapods' do
+  watch('Podfile')
+end
